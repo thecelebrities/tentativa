@@ -1,0 +1,231 @@
+html 
+{background: url('') fixed #cabdcb;} 
+body {background: #; 
+overflow-x: hidden; 
+margin: 0 auto; 
+width: 1920px; 
+box-shadow: 0px 0px 0px #cabdcb; 
+-moz-border-radius: 0px 0px 0px 0px; 
+-o-border-radius: 0px 0px 0px 0px; 
+border-radius: px 0px 0px 0px;}
+
+body {
+margin: auto; 
+width: 1400px; 
+color: #;
+body-align: center; 
+background: url('') fixed #cabdcb;
+margin-top: 5px;
+margin-bottom: 0px;
+-moz-box-shadow: 0 0 1em #c0b1c1; box-shadow: 0 0 1em #c0b1c1;}
+
+
+a:link {font: normal 10px georgia; color: #080c16; 
+font-weight: 0px; border-bottom: 0px dashed #;
+text-transform: lowercase;
+letter-spacing: 1px; text-decoration: none;
+transition-duration: 0.6s;
+-moz-transition-duration: 0.6s;
+-webkit-transition-duration: 0.6s;
+-o-transition-duration: 0.6s;}
+
+a:hover {font: normal 10px georgia; 
+font-weight: 0; letter-spacing: 1px; 
+color: #162644; text-transform: lowercase; 
+background: #d17c66; cursor: hand;
+text-decoration:; }
+
+
+a img {-webkit-filter: grayscale(0%);
+padding: 1px;
+background-color: #;
+border: 2px solid #;
+transition-duration: 1s;
+-moz-transition-duration: 1s; 
+-webkit-transition-duration: 1s; 
+-o-transition-duration: 1s;}
+
+a:hover img {-webkit-filter: grayscale(100%); 
+padding: 1px;
+background-color: #;
+border: 2px solid #;
+transition-duration: 1s;
+-moz-transition-duration: 1s; 
+-webkit-transition-duration: 1s; 
+-o-transition-duration: 1s;}
+
+iframe {filter:alpha(opacity=0);
+-moz-opacity:0.0;
+opacity:0.0;}
+
+
+::-moz-selection
+{color: #cd7964;
+Background-color: #515a72;}
+
+::selection
+{color: #cd7964;
+Background-color: #515a72;}
+
+
+
+p, a, body, td, tr, div { font-weight: 11px; font-size: 11px; color: #a796a9; cursor: url(http://cur.cursors-4u.net/others/oth-6/oth589.cur), auto !important; font: 11px 'verdana'; line-height: 10px; letter-spacing: 0px;}
+
+b {	cursor: normal; color: #2e364d; border: none; TEXT-DECORATION: none; text-shadow: 1px 1px #;}
+
+u {	cursor: normal; color: #2e364d; TEXT-DECORATION: none; background-color: none; border: none; font-size: none; text-shadow: 1px 1px #;}
+
+i {	cursor: normal; color: #2e364d; TEXT-DECORATION: none; font-style: italic; background-color: none; text-shadow: 1px 1px #;}
+
+w {	cursor: normal; color: #e87d43; TEXT-DECORATION: none; font-style: none; font-weight: normal; background-color: none; text-shadow: 1px 1px #d1c3d2; letter-spacing: 1px;}
+
+y {	cursor: normal; color: #e87d43; TEXT-DECORATION: none; font-style: none; font-weight: normal; background-color: none; text-shadow: 1px 1px #d1c3d2; }
+
+m {	cursor: normal; color: #e87d435; TEXT-DECORATION: none; font: italic 13pt new times roman; background-color: none; text-shadow: 1px 1px #d1c3d2; letter-spacing: -1px;}
+
+n {	cursor: normal; color: #a492a6; TEXT-DECORATION: none; font: normal 8pt consolas; background-color: none; text-shadow: 1px 1px #d1c3d2; letter-spacing: 0px; text-transform: uppercase;}
+
+.subtitulo {letter-spacing: 2px;padding: 1px; font-family: 'cabri', calibri, helvetica, arial; text-align: center; font-size: 8px; border-radius: 0px; border: 0px solid #eeeeee; background-color: none; color: #2e364d; font-weight: bold; font-style: none; text-transform: uppercase;}
+
+.titulo_post {letter-spacing: 0px; padding-left: 0px; font-family: 'verdana'; font-size: 13px; border-radius: 0px; text-align:center; align: center; background-color: #; color: #2e364d; font-weight: normal; font-style: none; text-transform: none; padding-top: 7px; padding-bottom: 7px;}
+
+.linha1 { border-bottom: 1px solid #c7b7c8;}
+
+.titulo {
+margin-top: 30px;
+margin-bottom: 30px;
+font: italic 10px georgia; 
+background-image: url('https://i.imgur.com/0qTkpge.png');
+letter-spacing: 0px; 
+text-transform: lowercase;
+color: #99889b;
+font-size: 10px;
+text-align:center; 
+padding: 15px;
+margin-left: 480px;
+width: 29%;
+cursor: row-resize;}
+
+#footer {text-align:center; background-color: none; color: #2e364d; font-family: arial; font-size: 18px;
+padding: 10px; text-align:center; text-transform: none; text-decoration: none; font-weight: bold;}
+
+.fundopost { padding: 10px; width: 520px; text-align: justify; background-color: #2e364d; border-left: 4px solid #c7b7c8;
+-moz-border-radius: 0px; -webkit-border-radius: 0px; -moz-box-shadow: inset 0 0 0px #fffff6; -webkit-box-shadow: inset 0 0 0px #fffff6;
+box-shadow: inset 0 0 0px #f67c75; background: url(''); font: normal 10px verdana; color: #a492a6; }
+
+input, textarea, select {color: #e87d43; padding: 5px; font: 10px verdana; text-align: justify; background: url(''); border: 1px solid #c7b7c8; margin-top: 4px;}
+.cmttext {padding: 5px; align: justify; font-weight: normal; background: #; line-height: 12px;}
+.comentarios {width: 100%; }
+
+
+#barra {
+height: 25px;
+color: transparent;
+background: transparent; 
+width: 80%;
+cursor: row-resize;
+padding-left: 36px;}
+
+#barra .tubo {
+align: center;
+height: 55px;
+width: 80%;
+background: transparent;
+cursor: row-resize;}
+
+#barra .fvbarraf {
+align: center;
+font-family: georgia; 
+letter-spacing: 2px; 
+font-size: 7pt;
+font-weight: normal;
+text-transform: lowercase;
+height: 17px;
+color:#2e364d;  
+background: #e87d43;
+border: 1px solid #e87d43;
+text-align: center;
+text-decoration: none;
+padding:0px;
+margin: 0px;
+position: relative; 
+top:auto; 
+left:auto;
+line-height: 10px;
+text-align: center;}
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
+align: center;
+font-family: georgia; 
+letter-spacing: 2px; 
+font-size: 6.5pt;
+font-weight: normal;
+font-style: italic;
+text-transform: lowercase;
+background: #cbc0cc;
+color: #e87d43;
+text-decoration: none;
+text-align: center;
+padding: 0px;
+padding-left:0px;
+padding-right:0px;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+transition: all 0.5s ease;}
+
+#barra .fvbarra a:hover {
+align: center;
+color: #2e364d;
+background: #cbc0cc;
+text-align: center; 
+padding: 0px;
+padding-left:0px;
+padding-right:0px;}
+
+#barra .fvbarra {
+align: center;
+font-family: 'cabri', calibri, helvetica, arial; 
+letter-spacing: 1px; 
+text-transform: uppercase;
+font-size: 3px;
+color: transparent;
+text-align: center;
+cursor: row-resize;}
+
+#barra .barraimg {
+opacity:.0;
+}
+
+#footer {
+color: #2e364d; background: #;
+border-top: 3px solid #;
+background-image: url('');
+width: 100%; height: 20px;
+text-transform: uppercase;
+text-align: center; font: 8px consolas; 
+font-style: normal; letter-spacing: 5px;
+padding-top: 10px; padding-bottom: 5px;
+ margin-left:0pt; margin-bottom: 0px;
+-moz-border-radius: 0px 0px 0px 0px; 
+-o-border-radius: 1px 1px 0px 0px;
+ border-radius: 1px 1px 0px 0px;}
+
+
+background-attachment: scroll;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+crdts: tatahg @ fv/bieber
+some changes by thay @ fv/dailycamila
